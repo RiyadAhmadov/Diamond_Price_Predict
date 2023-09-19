@@ -2,19 +2,6 @@
  
 ![Diamond Image](https://t3.ftcdn.net/jpg/02/89/42/52/360_F_289425261_eriD4MyHsaQ9nh9R53wkTmVNoXzdCWqg.jpg)
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Model Training](#model-training)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 Welcome to the Diamond Price Prediction project! This project aims to predict diamond prices based on various features such as carat, cut, color, clarity, depth, table, and dimensions (x, y, z). Predicting diamond prices can be valuable for both buyers and sellers in the diamond market.
